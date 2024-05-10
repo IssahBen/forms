@@ -1,6 +1,6 @@
 export default function Page3({ add, addons }) {
   return (
-    <div className="   md:static absolute   left-[25px] top-[-96px] flex flex-col  w-11/12 bg-white pt-6  pb-10 px-6 rounded-xl">
+    <div className="   md:static absolute   left-[18px] top-[-70px]  flex flex-col  w-11/12 bg-white pt-6  pb-10 px-6 rounded-xl">
       <div className="font-sans text-xl font-bold text-marine_blue ">
         <p>Pick add-ons</p>
       </div>
